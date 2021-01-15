@@ -1,0 +1,38 @@
+.about-us__img{
+	padding: 25px;
+}
+.about-us{
+	margin: 30px 0px;
+	color: $darkblue;
+	&__box{
+		margin: 50px 10px 0px 30px;
+	}
+	h3{
+		margin: 0px;
+		font-weight: bold;
+	}
+	h4{
+		margin: 20px 0px 10px 0px;
+		font-weight: bold;
+	}
+	&__left{
+		padding: 10px 15px;
+	}
+	&__right{
+		text-align: right;
+		padding: 10px 25px;
+	}
+	a{
+		font-weight: bold;
+		text-decoration: none;
+		transition: 0.3s;
+	}
+	&__hr{
+		border-top: 2px solid $secondary-color;
+		margin: 0px;
+	}
+	.thumbnail{
+		border-radius: 0px;
+	}
+}
+

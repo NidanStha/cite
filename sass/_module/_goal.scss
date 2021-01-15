@@ -1,0 +1,51 @@
+.ourGoal{
+	background-color: $darkblue;
+	color: $white;
+	&__wrap{
+		padding-top: 30px;
+	}
+	&__contents{
+		margin-top: 0px;
+	}
+	.logo-small{
+		background-color: $primary-color;
+		border-radius: 50%;
+		font-size: 32px;
+	}
+	h1{
+		font-family: $font-primary;
+		margin: $heading-margin;
+	}
+	&__button{
+		margin: $button-margin;
+		background-color: $primary-color;
+		border-radius: 0px;
+		outline: none;
+		border: none;
+		padding: 8px 25px;
+		transition: 0.3s;
+		font-size: 1.1em;
+		color: $white;
+	}
+	&__button:hover{
+		background-color: $dark-primary;
+	}
+	&--box{
+		padding: 25px;
+		transition: 0.5s;
+		&:hover{
+			background-color: #202728;
+			border-radius: 2px 2px 2px 2px;
+	    -webkit-box-shadow: 0 1px 4px
+	     rgba(0, 0, 0, 0.3), 0 0 40px
+	     rgba(0, 0, 0, 0.1) inset;
+	    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;    box-shadow: 0 1px 4px
+	     rgba(0, 0, 0, 0.3), 0 0 40px
+	     rgba(0, 0, 0, 0.1) inset;
+		}
+	}
+}
+
+.ourGoal--box{
+	font-size: $paragraph-text;
+}

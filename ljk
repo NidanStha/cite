@@ -1,0 +1,78 @@
+[33mcommit c09ec014f1c96f88c00c64c7548a489e0ddedf98[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Sun Dec 13 19:52:28 2020 +0545
+
+    admin login 99
+
+[33mcommit f1882f75863296997606c963fd7dbe6a0571ecda[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Sat Dec 12 19:59:46 2020 +0545
+
+    change in index
+
+[33mcommit cf2d383e9fa90efe93ebcb60f1702eb0cc78ac45[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Sat Dec 12 19:42:25 2020 +0545
+
+    change in login page
+
+[33mcommit ce85e7cdf7871dd210b61d6c1c565f0c1be3e6ed[m
+Merge: de88dea c972442
+Author: Nidan msi <nidanshrestha@gmail.com>
+Date:   Sat Dec 12 16:46:10 2020 +0545
+
+    Merge branch 'master' of github.com:NidanStha/cite
+
+[33mcommit de88deac270423f331f88c518d2f73c4cb64db5a[m
+Author: Nidan msi <nidanshrestha@gmail.com>
+Date:   Sat Dec 12 16:45:05 2020 +0545
+
+    photo change
+
+[33mcommit c972442fcd21bd03bb44be1a6ccdcff47c79d1fd[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Fri Dec 11 19:49:41 2020 +0545
+
+    change in about and members
+
+[33mcommit fe50a8cef1fa80a67b15a4d48f830cb57c0e1570[m
+Author: Nidan msi <nidanshrestha@gmail.com>
+Date:   Fri Dec 11 14:14:31 2020 +0545
+
+    added login and register page
+
+[33mcommit c33d3c3fd6c43f4cd740ee3efbb8da3f7ee0bced[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Thu Dec 10 19:27:55 2020 +0545
+
+    unnecessary file deleted
+
+[33mcommit e80edcf50cd329926d6d23e8b78ce37376ad31d2[m
+Author: Nidan Shrestha <nidanshrestha@gmail.com>
+Date:   Thu Dec 10 19:24:55 2020 +0545
+
+    irdp to cite 100
+
+[33mcommit 6d270f11460c276dab3ddc3bd897263ce0bf524d[m
+Author: NidanStha <nidanshrestha@gmail.com>
+Date:   Thu Dec 10 18:00:34 2020 +0545
+
+    irdp to nss 50
+
+[33mcommit aeca7ecbabccf9393e2582e1c93ecc1b9e88034e[m
+Author: NidanStha <nidanshrestha@gmail.com>
+Date:   Thu Dec 10 10:49:48 2020 +0545
+
+    2nd commit
+
+[33mcommit 5ec3a1486f80740f934d2d81989ed6a1930a86c5[m
+Author: NidanStha <nidanshrestha@gmail.com>
+Date:   Thu Dec 10 10:38:34 2020 +0545
+
+    cite project v initiated
+
+[33mcommit 9adc056e59fe6db455be48c422ede4780c05b411[m
+Author: NidanStha <32062186+NidanStha@users.noreply.github.com>
+Date:   Thu Dec 10 10:28:38 2020 +0545
+
+    Initial commit

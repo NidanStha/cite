@@ -1,0 +1,84 @@
+.contact{
+	background-color: $darkblue;
+	color: $white;
+	font-size: $paragraph-text;
+	h1{
+		font-family: $font-primary;
+		margin: $heading-margin;
+	}
+	h4{
+		font-weight: bold;
+		padding-bottom: 10px;
+		border-bottom: 2px solid $primary-color;
+	}
+	&__aboutus{
+		a{
+			text-decoration: none;
+			transition: 0.5s;
+		}
+		a:hover{
+			color: $white;
+		}
+	}
+	&__sitemap{
+		padding: 0px;
+	}
+	&__sitemap li{
+		list-style: none;
+		padding: 0px;
+	}
+	&__sitemap a{
+			color: white;
+			text-decoration: none;
+			transition: 0.3s;
+			&:hover{
+				border-left: 4px solid $dark-primary;
+				padding-left: 10px;
+		}
+	}
+}
+
+.social{
+  display : inline-block;
+  width : 36px;
+  height : 36px;
+  padding : 8px;
+  border-radius:100%;
+  background-color : white;
+  margin:10px;
+  transition: all 0.5s ease-in-out;
+}
+.social svg{
+  transition: transform 0.5s ease-out;
+}
+.social:hover{
+  border-radius:10%;
+  transform: rotate(405deg);
+}
+.social:hover svg{
+  transform: rotate(315deg);
+}
+
+.facebook{
+    fill: #3b5998;
+}
+.facebook:hover{
+    fill:white;
+    background: #3b5998;
+}
+
+.twitter{
+  fill: #4099FF;
+}
+.twitter:hover{
+  fill:white;
+  background:#4099FF;
+}
+.googleplus{
+  fill: #d34836;
+}
+
+.googleplus:hover{
+  fill:white;
+  background:#d34836;
+}

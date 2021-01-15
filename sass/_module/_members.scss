@@ -1,0 +1,24 @@
+.member{
+	&__button{
+		margin: $button-margin;
+		background-color: $dark-primary;
+		border-radius: 0px;
+		outline: none;
+		border: none;
+		padding: 8px 25px;
+		transition: 0.3s;
+		font-size: 1.1em;
+		color: $white;
+	}
+	&__button:hover{
+		background-color: $primary-color;
+	}
+}
+
+.member h1{
+	font-family: $font-primary;
+}
+
+.member h3{
+	font-family: $font-primary;
+}

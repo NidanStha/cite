@@ -1,0 +1,33 @@
+.ongoing{
+	margin: 90px 10px 0px 30px;
+	color: $darkblue;
+	h3{
+		margin: 0px;
+		font-weight: bold;
+	}
+	&__left{
+		padding: 10px 0px;
+	}
+	&__right{
+		text-align: right;
+		padding: 10px 40px;
+	}
+	a{
+		font-weight: bold;
+		text-decoration: none;
+		transition: 0.3s;
+	}
+	&__textcontents{
+		font-size: $paragraph-text;
+	}
+	&__hr{
+		border-top: 2px solid $secondary-color;
+		margin-top: 0px;
+		margin-left: -20px;
+	}
+	.thumbnail{
+		border-radius: 0px;
+	}
+}
+
+

@@ -1,0 +1,52 @@
+.contactForm{
+	&__button{
+		background-color: $dark-primary;
+		border-radius: 0px;
+		outline: none;
+		border: none;
+		padding: 8px 25px;
+		transition: 0.3s;
+		font-size: 1.1em;
+		color: $white;
+	}
+	&__button:hover{
+		background-color: $primary-color;
+	}
+}
+
+.contactForm{
+	margin: 90px 15px 40px 40px;
+	color: $darkblue;
+	&__textcontents{
+		font-size: $paragraph-text;
+	}
+	h3{
+		margin: 0px;
+		font-weight: bold;
+	}
+	&__left{
+		padding: 10px 15px;
+	}
+	&__right{
+		text-align: right;
+		padding: 10px 25px;
+	}
+	a{
+		font-weight: bold;
+		text-decoration: none;
+		transition: 0.3s;
+	}
+	&__hr{
+		border-top: 2px solid $secondary-color;
+		margin-top: 0px;
+	}
+}
+.contactForm{
+	&__well-lg{
+		margin: 20px;
+		padding: 25px;
+	}
+}
+.contact-details{
+	font-size: $paragraph-text;
+}

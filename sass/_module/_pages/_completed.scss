@@ -1,0 +1,43 @@
+.completed{
+	margin: 90px 10px 0px 30px;
+	color: $darkblue;
+		&__textcontents{
+		font-size: $paragraph-text;
+	}
+	h3{
+		margin: 0px;
+		font-weight: bold;
+	}
+	&__left{
+		padding: 10px 0px;
+	}
+	&__right{
+		text-align: right;
+		padding: 10px 40px;
+	}
+	a{
+		font-weight: bold;
+		text-decoration: none;
+		transition: 0.3s;
+	}
+	&__hr{
+		border-top: 2px solid $secondary-color;
+		margin-top: 0px;
+		margin-left: -20px;
+	}
+	.thumbnail{
+		border-radius: 0px;
+	}
+}
+
+.dashed {
+	list-style-type: none;
+	margin-left: -30px;
+}
+.dashed > li {
+	text-indent: -10px;
+}
+.dashed > li:before {
+	content: "- ";
+	text-indent: -5px;
+}

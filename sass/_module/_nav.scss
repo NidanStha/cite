@@ -1,0 +1,29 @@
+.md--navbar{
+	color: $white;
+	background-color: $primary-color;
+	border-color: $primary-color;
+	border-bottom: 1px solid $dark-primary;
+}
+
+.navbar-brand{ 
+	line-height: 15px;
+	padding: 10px 15px;
+}
+
+.main-logo{
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+.sub-logo{
+	font-size: 0.8em;
+	font-weight: normal;
+}
+
+.navbar-nav > li{
+	transition: .3s;
+	&:hover{
+	background-color: $dark-primary;
+	color: $primary-color;
+	}
+}
